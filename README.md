@@ -146,12 +146,9 @@ Raw sales data often exists across multiple tables and lacks structure for meani
 
 ---
 
-## 📚 Credits
 
 
 
-Original Source:
-https://www.youtube.com/watch?v=m13o5aqeCbM&t=1659s
 
 ---
 
