@@ -79,7 +79,7 @@ Raw sales data often exists across multiple tables and lacks structure for meani
 * Created calculated Sales column
 * Cleaned and formatted dataset
 
-![Orders](screenshots\orders_page.png)
+![Orders](screenshots/orders_page.png)
 
 ---
 
@@ -88,7 +88,7 @@ Raw sales data often exists across multiple tables and lacks structure for meani
 * Built pivot table grouped by Month & Year
 * Created line chart for sales trends across coffee types
 
-![Total Sales](screenshots\total_sales_page.png)
+![Total Sales](screenshots/total_sales_page.png)
 
 ---
 
@@ -97,7 +97,7 @@ Raw sales data often exists across multiple tables and lacks structure for meani
 * Built pivot table for regional comparison
 * Created bar chart and sorted performance
 
-![Country](screenshots\countrywise_barchart_page.png)
+![Country](screenshots/countrywise_barchart_page.png)
 
 ---
 
@@ -106,7 +106,7 @@ Raw sales data often exists across multiple tables and lacks structure for meani
 * Applied filters to identify top customers
 * Visualized contribution using bar chart
 
-![Customers](screenshots\top % customers_page.png)
+![Customers](screenshots/top_customers_page.png)
 
 ---
 
@@ -132,7 +132,7 @@ Raw sales data often exists across multiple tables and lacks structure for meani
 
 ### 🔹 Full Dashboard
 
-![Dashboard](screenshots\dashboard_page.png)
+![Dashboard](screenshots/dashboard_page.png)
 
 
 ---
