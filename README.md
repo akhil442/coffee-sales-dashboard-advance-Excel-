@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ☕ Coffee Sales Dashboard (Excel End-to-End Project)
 
 ## 📌 Overview
@@ -78,7 +79,7 @@ Raw sales data often exists across multiple tables and lacks structure for meani
 * Created calculated Sales column
 * Cleaned and formatted dataset
 
-![Orders](screenshots/orders.png)
+![Orders](C:\Users\Akki\Documents\PROJECTS\data_anlyst_yt\advance_excel_project\screenshots\orders_page.png)
 
 ---
 
@@ -87,7 +88,7 @@ Raw sales data often exists across multiple tables and lacks structure for meani
 * Built pivot table grouped by Month & Year
 * Created line chart for sales trends across coffee types
 
-![Total Sales](screenshots/totalsales.png)
+![Total Sales](C:\Users\Akki\Documents\PROJECTS\data_anlyst_yt\advance_excel_project\screenshots\total_sales_page.png)
 
 ---
 
@@ -96,7 +97,7 @@ Raw sales data often exists across multiple tables and lacks structure for meani
 * Built pivot table for regional comparison
 * Created bar chart and sorted performance
 
-![Country](screenshots/country.png)
+![Country](C:\Users\Akki\Documents\PROJECTS\data_anlyst_yt\advance_excel_project\screenshots\countrywise_barchart_page.png)
 
 ---
 
@@ -105,7 +106,7 @@ Raw sales data often exists across multiple tables and lacks structure for meani
 * Applied filters to identify top customers
 * Visualized contribution using bar chart
 
-![Customers](screenshots/customers.png)
+![Customers](C:\Users\Akki\Documents\PROJECTS\data_anlyst_yt\advance_excel_project\screenshots\top % customers_page.png)
 
 ---
 
@@ -131,15 +132,8 @@ Raw sales data often exists across multiple tables and lacks structure for meani
 
 ### 🔹 Full Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](C:\Users\Akki\Documents\PROJECTS\data_anlyst_yt\advance_excel_project\screenshots\dashboard_page.png)
 
-### 🔹 Interactive Filters
-
-![Filters](screenshots/filters.png)
-
-### 🔹 Key Visualizations
-
-![Charts](screenshots/charts.png)
 
 ---
 
@@ -154,15 +148,18 @@ Raw sales data often exists across multiple tables and lacks structure for meani
 
 ## 📚 Credits
 
-This project was inspired by a YouTube tutorial.
+
 
 Original Source:
-(Add YouTube link here)
+https://www.youtube.com/watch?v=m13o5aqeCbM&t=1659s
 
 ---
 
 ## 👤 Author
 
-Your Name
-GitHub: https://github.com/YOUR-USERNAME
-LinkedIn: (optional)
+Akhil Puttabanthi
+GitHub: https://github.com/akhil442
+=======
+# coffee-sales-dashboard-advance-Excel
+Excel dashboard for sales analysis
+>>>>>>> ffed8213557b6a9ae2b287a4df5d9a555429e1a7
